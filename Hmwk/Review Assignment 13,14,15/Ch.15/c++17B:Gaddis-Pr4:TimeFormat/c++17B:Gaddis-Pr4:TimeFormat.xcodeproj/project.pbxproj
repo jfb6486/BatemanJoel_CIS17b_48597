@@ -1,0 +1,243 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		91383C4019D3A96800FAF1EA /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 91383C3F19D3A96800FAF1EA /* main.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		91383C3A19D3A96800FAF1EA /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		91383C3C19D3A96800FAF1EA /* c++17B:Gaddis-Pr4:TimeFormat */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "c++17B:Gaddis-Pr4:TimeFormat"; sourceTree = BUILT_PRODUCTS_DIR; };
+		91383C3F19D3A96800FAF1EA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		91383C4719D3A9D400FAF1EA /* Time.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Time.h; sourceTree = "<group>"; };
+		91383C4919D3AB6200FAF1EA /* MilTime.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MilTime.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		91383C3919D3A96800FAF1EA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		91383C3319D3A96800FAF1EA = {
+			isa = PBXGroup;
+			children = (
+				91383C3E19D3A96800FAF1EA /* c++17B:Gaddis-Pr4:TimeFormat */,
+				91383C3D19D3A96800FAF1EA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		91383C3D19D3A96800FAF1EA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				91383C3C19D3A96800FAF1EA /* c++17B:Gaddis-Pr4:TimeFormat */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		91383C3E19D3A96800FAF1EA /* c++17B:Gaddis-Pr4:TimeFormat */ = {
+			isa = PBXGroup;
+			children = (
+				91383C3F19D3A96800FAF1EA /* main.cpp */,
+				91383C4919D3AB6200FAF1EA /* MilTime.h */,
+				91383C4719D3A9D400FAF1EA /* Time.h */,
+			);
+			path = "c++17B:Gaddis-Pr4:TimeFormat";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		91383C3B19D3A96800FAF1EA /* c++17B:Gaddis-Pr4:TimeFormat */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 91383C4319D3A96800FAF1EA /* Build configuration list for PBXNativeTarget "c++17B:Gaddis-Pr4:TimeFormat" */;
+			buildPhases = (
+				91383C3819D3A96800FAF1EA /* Sources */,
+				91383C3919D3A96800FAF1EA /* Frameworks */,
+				91383C3A19D3A96800FAF1EA /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "c++17B:Gaddis-Pr4:TimeFormat";
+			productName = "c++17B:Gaddis-Pr4:TimeFormat";
+			productReference = 91383C3C19D3A96800FAF1EA /* c++17B:Gaddis-Pr4:TimeFormat */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		91383C3419D3A96800FAF1EA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+				ORGANIZATIONNAME = "Joel Bateman";
+				TargetAttributes = {
+					91383C3B19D3A96800FAF1EA = {
+						CreatedOnToolsVersion = 6.0.1;
+					};
+				};
+			};
+			buildConfigurationList = 91383C3719D3A96800FAF1EA /* Build configuration list for PBXProject "c++17B:Gaddis-Pr4:TimeFormat" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 91383C3319D3A96800FAF1EA;
+			productRefGroup = 91383C3D19D3A96800FAF1EA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				91383C3B19D3A96800FAF1EA /* c++17B:Gaddis-Pr4:TimeFormat */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		91383C3819D3A96800FAF1EA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91383C4019D3A96800FAF1EA /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		91383C4119D3A96800FAF1EA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		91383C4219D3A96800FAF1EA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		91383C4419D3A96800FAF1EA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		91383C4519D3A96800FAF1EA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		91383C3719D3A96800FAF1EA /* Build configuration list for PBXProject "c++17B:Gaddis-Pr4:TimeFormat" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91383C4119D3A96800FAF1EA /* Debug */,
+				91383C4219D3A96800FAF1EA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		91383C4319D3A96800FAF1EA /* Build configuration list for PBXNativeTarget "c++17B:Gaddis-Pr4:TimeFormat" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91383C4419D3A96800FAF1EA /* Debug */,
+				91383C4519D3A96800FAF1EA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 91383C3419D3A96800FAF1EA /* Project object */;
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>75D37127-CA25-4771-A9F4-D4524CA22764</string>
+	<key>IDESourceControlProjectName</key>
+	<string>c++17B:Gaddis-Pr9:CircleClass</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1A0F44268FCBFD89EB4E3C3F7AFBBCB07F831C39</key>
+		<string>https://github.com/jfb6486/BatemanJoel_CIS17b_48597.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hmwk/Review Assignment 13,14,15/Ch.13/c++17B:Gaddis-Pr9:CircleClass/c++17B:Gaddis-Pr9:CircleClass.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1A0F44268FCBFD89EB4E3C3F7AFBBCB07F831C39</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jfb6486/BatemanJoel_CIS17b_48597.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1A0F44268FCBFD89EB4E3C3F7AFBBCB07F831C39</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1A0F44268FCBFD89EB4E3C3F7AFBBCB07F831C39</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BatemanJoel_CIS17b_48597</string>
+		</dict>
+	</array>
+</dict>
+</plist>
